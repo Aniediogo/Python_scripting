@@ -1,0 +1,3 @@
+This is my new line
+You can see that this write mode is working
+keep learning python, it will help you

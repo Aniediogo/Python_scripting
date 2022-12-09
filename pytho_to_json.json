@@ -1,0 +1,16 @@
+{
+      "name": "Angela",
+      "skills": [
+            "python",
+            "DevOps",
+            "DevSecOps",
+            "Cybersecurity",
+            "Writing",
+            "Administration"
+      ],
+      "Ages": [
+            12,
+            24,
+            26
+      ]
+}
